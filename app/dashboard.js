@@ -3,7 +3,7 @@ const { div } = React.DOM;
 
 class DashboardComponent extends React.Component {
   render() {
-    return div({}, 'YO!');
+    return div({}, 'I am nioAg');
   }
 }
 

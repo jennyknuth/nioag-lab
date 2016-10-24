@@ -1,6 +1,6 @@
-# Brunchy
+# nioAg in the lab
 
-A Brunch.io skeleton for prototyping/bootstrapping a nio frontend.
+A shell React app for setting up nioAg in the lab.
 
 ## Getting started
 
